@@ -1,2 +1,2 @@
 # radon
-Radium wrapper for inline atomic styles with React
+Radium wrapper for responsive inline atomic styles with React

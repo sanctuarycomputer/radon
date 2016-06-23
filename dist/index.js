@@ -3,16 +3,7 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.Grid = exports.Colors = exports.Typography = exports.Positioning = exports.Whitespace = exports.Settings = undefined;
-
-var _Settings = require('./css/Settings');
-
-Object.defineProperty(exports, 'Settings', {
-  enumerable: true,
-  get: function get() {
-    return _interopRequireDefault(_Settings).default;
-  }
-});
+exports.Grid = exports.Colors = exports.Typography = exports.Positioning = exports.Whitespace = undefined;
 
 var _Whitespace = require('./css/Whitespace');
 

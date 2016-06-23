@@ -2,10 +2,10 @@
   "name": "radon",
   "version": "1.0.0",
   "description": "Radium wrapper for responsive inline atomic styles with React",
-  "main": "dist/index.js",
+  "main": "radon.js",
   "scripts": {
     "prebuild": "rimraf dist",
-    "build": "babel --copy-files --out-dir dist src"
+    "build": "babel src --out-file radon.js"
   },
   "repository": {
     "type": "git",
